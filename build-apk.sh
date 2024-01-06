@@ -95,3 +95,4 @@ if [[ "$java_version" == 17* ]]; then
 else
     echo "Error: JDK version needs to be 17. Check your JAVA_HOME env and JRE"
     exit 1
+fi
