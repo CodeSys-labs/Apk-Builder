@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/xsKJGyK/1.png">
 
 Shell script to build apk in angular-ionic projects. <br><br>
-This script works with the 'android-sdk' folder, witch contains minimized popular libreries of the android-sdk to build your apk project. Then Ionic going to provide you an 'android' folder with Graddle 8.0 standalone implementation to finish the job.<br><br>
+This script works with the 'android-sdk' folder, witch contains minimized popular libreries of the android-sdk to build your apk project. Then Ionic Capacitor integration is going to provide you an 'android' platform folder with Graddle 8.0 standalone implementation to finish the job.<br><br>
 
 #### Requirements:
 To run this script you going to need the following:
